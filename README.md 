@@ -1,0 +1,25 @@
+# FitFeed
+
+FitFeed automatically generates fitness and diet plans based on your body data, records body changes, offers workout demos, and even lets you listen to music while you exercise.
+
+## Technologies Used
+- Streamlit for the web interface
+- SQLite for data storage
+- Matplotlib and Plotly for data visualization
+- Python for backend logic
+
+## Problem Statement
+FitFeed aims to simplify fitness planning by providing personalized workout and diet plans based on user-specific body data, tracking progress over time, and enhancing workout sessions with interactive demos and music.
+
+## How to Run
+1. Install the required Python packages: `pip install streamlit matplotlib plotly sqlite3`.
+2. Clone the repository and navigate to the project directory.
+3. Run the Streamlit application: `streamlit run app.py`.
+
+## Reflections
+### What I Learned
+Reflecting on the project, I learned about turning personal fitness needs into a comprehensive application, from ideation to realization. The journey involved blending fitness planning with technology, including mastering Streamlit for web UI, SQLite for data management, and integrating OpenAI's API for dynamic content generation.
+
+### Challenges Faced
+Challenges were significant and varied, encompassing API integration, designing the app's layout, and aiming for ambitious features like linking diet plans directly to Amazon Fresh for seamless shopping experiences. Despite hurdles like time constraints preventing the realization of the full vision, particularly the feed section's integration with shopping links, the process was immensely educational, highlighting the complexities of developing a user-centric application that bridges the gap between fitness planning and technology.
+
